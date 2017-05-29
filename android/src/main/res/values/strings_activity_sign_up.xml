@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">O-Poll</string>
+    <string name="action_settings">Settings</string>
+    <string name="signup">Sign Up !</string>
+    <string name="username">Username</string>
+
+    <string name="birthday">Birthday</string>
+    <string name="edit">Edit</string>
+
+    <string name="your_size">Your height \n in centimeter</string>
+    <string name="your_weight">Your weight \n in Kg</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="pick_a_date">Pick a Date</string>
+    <string name="hint_size">180</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_weight">80</string>
+
+    <string name="pick_a_race">Pick a Race</string>
+    <string name="white">White</string>
+    <string name="african">African</string>
+    <string name="indian">Indian</string>
+    <string name="asian">Asian</string>
+
+
+
+
+    <string name="error_while_sending_information_to_our_server">Error while creating our account to our server</string>
+</resources>

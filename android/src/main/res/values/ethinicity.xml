@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ethnicity_array">
+        <item>@string/pick_a_race</item>
+        <item>@string/white</item>
+        <item>@string/african</item>
+        <item>@string/indian</item>
+        <item>@string/asian</item>
+    </string-array>
+
+
+
+</resources>

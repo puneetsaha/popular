@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_while_retrieving_question_list">Error while retrieving the question list </string>
+    <string name="error_while_retreiving_user_stats">Error while retrieving the user stats </string>
+    <string name="error_no_more_question">No more question available</string>
+    <string name="you_have_answered_x_questions">You have answered %s questions</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search for Questions</string>
+    <string name="action_load_more">Load more questions</string>
+</resources>

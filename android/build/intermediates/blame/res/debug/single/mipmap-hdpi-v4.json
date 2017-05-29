@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ab_background.9.png",
+        "source": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-hdpi/ab_background.9.png"
+    },
+    {
+        "merged": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_action_new.png",
+        "source": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-hdpi/ic_action_new.png"
+    },
+    {
+        "merged": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/but_selected.png",
+        "source": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-hdpi/but_selected.png"
+    },
+    {
+        "merged": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/but_clicked.png",
+        "source": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-hdpi/but_clicked.png"
+    },
+    {
+        "merged": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/but_default.png",
+        "source": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-hdpi/but_default.png"
+    },
+    {
+        "merged": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/background.png",
+        "source": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-hdpi/background.png"
+    },
+    {
+        "merged": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/but_disabled.png",
+        "source": "/Users/puneetkumar/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-hdpi/but_disabled.png"
+    }
+]

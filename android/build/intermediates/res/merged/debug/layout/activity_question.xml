@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.puneetkumar.myapplication.activities.QuestionActivity">
+    <TextView
+        android:id="@+id/question_answered"
+        android:gravity="center"
+        android:textColor="@color/background_blue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/you_have_answered_x_questions"
+        android:textSize="@dimen/dimen_text_body"/>
+
+    <com.example.puneetkumar.myapplication.custom.CustomViewPager
+        android:layout_marginTop="16dp"
+        android:layout_below="@id/question_answered"
+        android:id="@+id/question_pager"
+        android:textColor="@color/background_blue"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</RelativeLayout>

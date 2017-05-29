@@ -1,0 +1,8 @@
+<resources>
+    <string name="title_activity_question">Questions</string>
+    <string name="action_add_question">Add Question</string>
+    <string name="poll">Poll</string>
+    <string name="ethnicity">Ethnicity</string>
+    <string name="facebook_app_id">571799679660220</string>
+    <string name="fb_login_protocol_scheme">fb571799679660220</string>
+</resources>
